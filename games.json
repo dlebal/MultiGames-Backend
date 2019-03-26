@@ -1,0 +1,652 @@
+{
+	"categories": [{
+			"id": "1",
+			"name": "Adventure"
+		},
+		{
+			"id": "2",
+			"name": "Animals"
+		},
+		{
+			"id": "3",
+			"name": "Arcade"
+		},
+		{
+			"id": "4",
+			"name": "Boys"
+		},
+		{
+			"id": "5",
+			"name": "Cards"
+		},
+		{
+			"id": "6",
+			"name": "Classic"
+		},
+		{
+			"id": "7",
+			"name": "Girls"
+		},
+		{
+			"id": "8",
+			"name": "Hidden Objects"
+		},
+		{
+			"id": "9",
+			"name": "Mahjong"
+		},
+		{
+			"id": "10",
+			"name": "Match3"
+		},
+		{
+			"id": "11",
+			"name": "Mind"
+		},
+		{
+			"id": "12",
+			"name": "Multiplayer"
+		},
+		{
+			"id": "13",
+			"name": "Physics"
+		},
+		{
+			"id": "14",
+			"name": "Puzzle"
+		},
+		{
+			"id": "15",
+			"name": "Ragdoll"
+		},
+		{
+			"id": "16",
+			"name": "Remover"
+		},
+		{
+			"id": "17",
+			"name": "Shooter"
+		},
+		{
+			"id": "18",
+			"name": "Skill"
+		},
+		{
+			"id": "19",
+			"name": "Solitaire"
+		},
+		{
+			"id": "20",
+			"name": "Sports"
+		},
+		{
+			"id": "21",
+			"name": "Time Management"
+		},
+		{
+			"id": "22",
+			"name": "Tower Defence"
+		}
+	],
+	"games": [{
+			"id": "1",
+			"name": "Exit Searcher",
+			"description": "Exit searcher is a puzzle game about warehouse worker. Help him quit his working space by moving blocks out of his way. Boxes are everywhere, there's only one way out, so you choose how to rescue the situation!",
+			"thumbnail": "https://public.playtomax.com/static/games/exit_searcher.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/sokoban_1405365990.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/sokoban_1405365996.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/sokoban_1405366003.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"exit_searcher\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Exit Searcher from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "2",
+			"name": "Meow Dress Up",
+			"description": "We bring the cutest mobile html5 game for you, Meow Dress Up! Here you dress up a pretty kittie, that is passionate about fashion. Indulge in a fantasy and clothe our beauty. Act like a dresser and gratify your taste. Here are lots of choices to put up, so come on and play with our cross-platform amazingness. One can bet that you will never forget that charming kittie game for girls.",
+			"thumbnail": "https://public.playtomax.com/static/games/meow_dress_up.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/meow_dress_up_1417457449.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/meow_dress_up_1417457466.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/meow_dress_up_1417457475.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"meow_dress_up\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Meow Dress Up from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [7, 14]
+		},
+		{
+			"id": "3",
+			"name": "WereBox",
+			"description": "Werebox – physics game story begins! Werebox is a mobile game where Good meet Evil. This is a world full of balls. But some of them can turn into the boxes! They are called wereboxes! The player’s goal is to kick all the bad red boxes off the screen and leave the rest good ones. Use wisely your forces, ‘cause we don’t need unnecessary victims! Tap on the ball to transform it into the box and vise-versa. Some objects can be transformed, some not. Clear the world from the bad wereboxes and save the planet!",
+			"thumbnail": "https://public.playtomax.com/static/games/werebox.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/werebox_1404390345.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/werebox_1404390349.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/werebox_1404390353.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"werebox\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- WereBox from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "4",
+			"name": "Ballooner",
+			"description": "Free the friendly balloons destroy the bad reds in this cute puzzle game. Remove the blocks so that they can fly into the sky. Beware of spikes.",
+			"thumbnail": "https://public.playtomax.com/static/games/ballooner.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/ballooner_1404218750.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/ballooner_1404218754.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/ballooner_1404218757.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"ballooner\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Ballooner from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14, 16]
+		},
+		{
+			"id": "5",
+			"name": "TicTacToe",
+			"description": "Tictactoe is a version of classic tic-tac-toe game. Players place X's and O's on a 3×3 or 5×5 grid. Simple game of strategy.",
+			"thumbnail": "https://public.playtomax.com/static/games/tictactoe.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/tictactoe_1404216148.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/tictactoe_1404216159.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/tictactoe_1404216165.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"tictactoe\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- TicTacToe from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "6",
+			"name": "Rabbit Launcher",
+			"description": "In this game, the rabbits are going insane for the carrots. Touch the screen to aim & shoot. Gather all the carrots to pass to the next level.",
+			"thumbnail": "https://public.playtomax.com/static/games/rabbit_launcher.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/rabbit_launcher_1404215580.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/rabbit_launcher_1404215585.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/rabbit_launcher_1404215588.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"rabbit_launcher\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Rabbit Launcher from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 15, 17]
+		},
+		{
+			"id": "7",
+			"name": "1+2=3 pandas?",
+			"description": "1+2=3 pandas? game is as easy as 1 + 2 = 3! Meet an amicable panda and help it meet up a challenge in this html5 game! All you need to do is pick and tap on a right answer. Panda is about to show you one table with numbers and three answers to choose. Now it is your turn to do the sums and react quickly! Add and subtract to choose a right value, if you miss - panda starts to weep. Don't let it feel distressed and always give a right answer!",
+			"thumbnail": "https://public.playtomax.com/static/games/123pandas.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/123pandas_1426697105.7285.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/123pandas_1426697121.2502.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/123pandas_1426697130.4206.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"123pandas\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- 1+2=3 pandas? from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "8",
+			"name": "Save butterflies",
+			"description": "Fun bubble shooter game. Save butterflies trapped in the bubbles. The more butterflies you save - the more score you get.",
+			"thumbnail": "https://public.playtomax.com/static/games/save_butterflies.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/bubblegame_1405338771.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/bubblegame_1405338781.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/bubblegame_1405338786.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"save_butterflies\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Save butterflies from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [7, 17]
+		},
+		{
+			"id": "9",
+			"name": "Fancy Constructor",
+			"description": "Move the blocks to the grayed area until they perfectly cover it. You can do it, Fancy Constructor.",
+			"thumbnail": "https://public.playtomax.com/static/games/fancy_constructor.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/fancy_1404216350.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/fancy_1404216354.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/fancy_1404216357.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"fancy_constructor\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fancy Constructor from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "10",
+			"name": "Get The Weight",
+			"description": "Get The Weight is an online game, which you can play absolutely for free! This game raises an excellent occasion for you to check your precision. Here, you encounter a balance and three weights. One scale is weighted with a random item, your luck is to guess the weight of it. Make your choice between big or small weight in order to increase another scale. Try to attain equilibrium, instantly obtain a higher score. Right from the start, it may seem hard to guess, but actually it's not! Try your fortune in this online game, great achievements are waiting for you! Be accurate and 'Get The Weights'!",
+			"thumbnail": "https://public.playtomax.com/static/games/get_the_weight.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/get_the_weight_1414581262.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/get_the_weight_1414581269.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/get_the_weight_1414581277.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"get_the_weight\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Get The Weight from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "11",
+			"name": "Marble cheesecake",
+			"description": "Marble Cheesecake is a cooking game, transferring you to the kitchen where you prove your cookery skills. Don't be afraid in case you haven't cooked a cheesecake yet! Start playing this game to discover all the steps of concoction process. Go ahead and have fun!",
+			"thumbnail": "https://public.playtomax.com/static/games/marble_cheesecake.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/cooking_1405367143.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/cooking_1405367181.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/cooking_1405367186.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"marble_cheesecake\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Marble cheesecake from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [7]
+		},
+		{
+			"id": "12",
+			"name": "Zombie Launcher 2",
+			"description": "Zombie Launcher 2 – zombies are back in the air! Play online now!\\r\\nZombie Launcher is the next part of a physics ragdoll shooter html5 game Zombie Launcher. It is a game where dead can fly! Do you know that in fact zombies don’t like brains? They like oranges! Yeah, they do! Could you ever imagine that?! In winter, in the first part of this online game, zombies didn’t get enough oranges so their hunting continues! Now it is summer and those tasty oranges are everywhere. So c’mon! Come and get some! You need to collect all oranges on the levels in order to move on. You can do it!",
+			"thumbnail": "https://public.playtomax.com/static/games/zombie_launcher2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/zombie_launcher2_1404217392.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/zombie_launcher2_1404217397.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/zombie_launcher2_1404217400.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"zombie_launcher2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Zombie Launcher 2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 15, 17]
+		},
+		{
+			"id": "13",
+			"name": "Mystery Temple",
+			"description": "Match-3 meets sliding block puzzle in this game, set deep in the heart of an ancient temple. Place colored blocks that slide in the direction of the arrows upon them. Match them to the sparkling jewels of the same color in order to collect them. Grab all the jewels and make it out before the board fills with blocks!",
+			"thumbnail": "https://public.playtomax.com/static/games/mystery_temple.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/mystery_temple_1407751047.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/mystery_temple_1407751097.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/mystery_temple_1407751103.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"mystery_temple\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Mystery Temple from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "14",
+			"name": "BlueBox2",
+			"description": "A block removal game. Click on the colored blocks so that the blue box lands on the blue platform.Connect two blue blocks together to move to the next level. Remove other objects by clicking/tapping on them. Do not drop the top blue block on the ground.",
+			"thumbnail": "https://public.playtomax.com/static/games/bluebox2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/bluebox2_1404376245.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/bluebox2_1404376250.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/bluebox2_1404376254.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"bluebox2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- BlueBox2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14, 16]
+		},
+		{
+			"id": "15",
+			"name": "Sean the Miner",
+			"description": "Hey, here is a new challenge to take up! Meet, Sean, the assiduous miner, who is operating a mine. His mine is of multicolored blocks, moving down constantly. Swipe the same hue blocks to the wagon down, and up to get rid of them rapidly. Hasten the miner and amuse yourself with the mission!",
+			"thumbnail": "https://public.playtomax.com/static/games/sean_the_miner.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/sean_the_miner_1414580593.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/sean_the_miner_1414580629.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/sean_the_miner_1414580639.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"sean_the_miner\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Sean the Miner from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [3]
+		},
+		{
+			"id": "16",
+			"name": "Gemollection",
+			"description": "Gemollection – get rich playing online html5 games! Have you ever dreamt of finding a treasure and getting rich? Gemollection is a free game where dreams come true! Collect all the gems in the levels in order to win. You need to put the gems into the chests of the same colors. To do this you are going to manipulate the laser platforms, punch-boxes and chains by tapping on them. The faster you complete the level the higher your score will be. Also, you can get the additional coins to earn the extra score points.",
+			"thumbnail": "https://public.playtomax.com/static/games/gemollection.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/gemollection_1399450012.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/gemollection_1404215164.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/gemollection_1404215171.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"gemollection\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Gemollection from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "17",
+			"name": "Hide Caesar",
+			"description": "You need to cover the coin with different objects so the falling rocks can't reach and destroy it.",
+			"thumbnail": "https://public.playtomax.com/static/games/hide_caesar.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/caesar_1404214935.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/caesar_1404214940.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/caesar_1404214944.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"hide_caesar\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Hide Caesar from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "18",
+			"name": "Winter Zombie Launcher",
+			"description": "Launch floppy zombies from your cannon to hit the orange. The fewer the shots and the less time you take to collect all of the oranges, the higher the score.",
+			"thumbnail": "https://public.playtomax.com/static/games/zombie_launcher.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/zombie_launcher_1404216884.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/zombie_launcher_1404216887.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/zombie_launcher_1404216894.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"zombie_launcher\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Winter Zombie Launcher from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 15, 17]
+		},
+		{
+			"id": "19",
+			"name": "Fox'n'Roll PP",
+			"description": "A level pack for the Fox'n'Roll game. You need to help the Ball reach the Fox by removing the obstacles and using physics.",
+			"thumbnail": "https://public.playtomax.com/static/games/foxnroll_players_pack.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/foxnroll_players_pack_1404219374.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/foxnroll_players_pack_1404219377.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/foxnroll_players_pack_1404219380.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"foxnroll_players_pack\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fox'n'Roll PP from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 16]
+		},
+		{
+			"id": "20",
+			"name": "Unfreeze Penguins",
+			"description": "In the match puzzle game Unfreeze Penguins your goal is to unfreeze as much penguins as possible by removing 3 or more connecting blocks of the same color. During the game, you will notice all sorts of power blocks and other combinations. Try to set the highest score.",
+			"thumbnail": "https://public.playtomax.com/static/games/unfreeze.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/unfreeze_1404216030.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/unfreeze_1404216034.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/unfreeze_1404216039.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"unfreeze\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Unfreeze Penguins from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [10, 14]
+		},
+		{
+			"id": "21",
+			"name": "Skeleton Launcher 2",
+			"description": "Shoot the skeleton from the cannon and collect the eggs.",
+			"thumbnail": "https://public.playtomax.com/static/games/skeleton_2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/skeleton_2_1404218434.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/skeleton_2_1404218438.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/skeleton_2_1404218442.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"skeleton_2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Skeleton Launcher 2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 15, 17]
+		},
+		{
+			"id": "22",
+			"name": "Mysterious Treasures",
+			"description": "The object of the game is to collect as many good coins as possible avoiding the cursed coins The player controls the chip when it's green. In the next turn, the player’s red evil alter-ego takes control of the chip and moves it in its own way. And, by the way, the first rule of the Mysterious Treasures is: You do not talk about Mysterious Treasures. Have fun.",
+			"thumbnail": "https://public.playtomax.com/static/games/mysterious_treasures.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/mysterious_treasures_1404216092.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/mysterious_treasures_1404216096.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/mysterious_treasures_1404216100.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"mysterious_treasures\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Mysterious Treasures from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "23",
+			"name": "Hide Caesar 2",
+			"description": "You need to cover the coin with different objects so the falling rocks can't reach and destroy it.",
+			"thumbnail": "https://public.playtomax.com/static/games/hide_caesar2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/caesar2_1404218330.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/caesar2_1404218334.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/caesar2_1404218337.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"hide_caesar2\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Hide Caesar 2 from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "24",
+			"name": "Fox'n'Roll Pro",
+			"description": "The next part of Fox'n'Roll game. More levels more fun! Help the Ball to reach the Fox!",
+			"thumbnail": "https://public.playtomax.com/static/games/foxnroll_pro.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/foxnroll_pro_1404219285.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/foxnroll_pro_1404219289.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/foxnroll_pro_1404219292.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"foxnroll_pro\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fox'n'Roll Pro from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 16]
+		},
+		{
+			"id": "25",
+			"name": "Astro Digger",
+			"description": "Help a brave astronaut to collect as many minerals as he can. Use teleports to move on big distances and bombs to destroy obstacles.",
+			"thumbnail": "https://public.playtomax.com/static/games/astrodigger.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/astrodigger_1424963057.7061.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/astrodigger_1424963070.8595.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/astrodigger_1424963085.6617.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"astrodigger\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Astro Digger from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [3, 14]
+		},
+		{
+			"id": "26",
+			"name": "Fanged Fun LP",
+			"description": "Are you ready to cheer yourself with funny fanged colored shapes? Tap on them, choose your own sequence. They should get to the platform of matching color! Handle the difficulties and good luck!",
+			"thumbnail": "https://public.playtomax.com/static/games/fangedfun_lp.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/fangedfun_lp_1407745081.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/fangedfun_lp_1407745095.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/fangedfun_lp_1407745100.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"fangedfun_lp\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fanged Fun LP from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "27",
+			"name": "Colorboom",
+			"description": "Play online html5 version of famous game title 'Bob The Robber' on your device. From childhood Bob knew about his destiny, he developed all the necessary skills and trained too hard... Eventually, he was inspired with the heroic feats of Robin Hood and started his crusade! Rush onto a mission to clean out the premises and act like a real robber. With every level, you receive a notice and start committing an ideal crime. Try to pass unnoticed through various security systems and tracking cameras, pick up hidden cash in various unexpected places. Be smart and tricky, force the door locks, search for notes that will reveal pin codes to Bob and he will unlock the doors. Can you steal without being caught?",
+			"thumbnail": "https://public.playtomax.com/static/games/colorboom.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/colorboom_1404217900.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/colorboom_1404217903.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/colorboom_1404217906.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"colorboom\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Colorboom from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 17]
+		},
+		{
+			"id": "28",
+			"name": "Ballooner LP",
+			"description": "Ballooner LP is a level pack for your favourite physics game about balloons! The level pack consists of 24 tricky levels, the faster you complete the level, the higher score you may obtain! Dispose of the bad balloons and release from others!",
+			"thumbnail": "https://public.playtomax.com/static/games/ballooner_lp.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/ballooner_lp_1407320555.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/ballooner_lp_1407320592.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/ballooner_lp_1407320607.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"ballooner_lp\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Ballooner LP from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14, 16]
+		},
+		{
+			"id": "29",
+			"name": "Puzzle Tag",
+			"description": "Set of 4 different puzzles combined in 1 game. You can choose the one you like most and try to improve on different difficulty levels.",
+			"thumbnail": "https://public.playtomax.com/static/games/puzzletag.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/puzzletag_1404215043.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/puzzletag_1404215049.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/puzzletag_1404215059.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"puzzletag\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Puzzle Tag from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [14]
+		},
+		{
+			"id": "30",
+			"name": "Jumping Light",
+			"description": "Meet 'Jumping Light' html5 game where you play with jumping fireball. You control leaping directions of a fireball, preventing it from falling down past the green blocks. Just hold left or right to set moving direction of a blazing fireball. It should always touch the edge of green blocks going down and up like an equalizer, otherwise our glaring ball will drop. Try to stay alive and catch randomly appearing flashing dots on top of the blocks, it adds an extra point to your score. Play online with a vivid fireball, beat and share your best score!",
+			"thumbnail": "https://public.playtomax.com/static/games/jumping_light.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/jumping_light_1429797707.8646.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/jumping_light_1429797716.8695.jpg",
+			"screen_3": "",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"jumping_light\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- Jumping Light from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [3]
+		},
+		{
+			"id": "31",
+			"name": "Gemollection 2",
+			"description": "Gemollection 2 – the online game adventure continues! Gemollection 2 is the next part of well-known physics html5 game about collecting treasures. Keep making money just playing the online game ;)\\r\\nGet all the jewels into the chest in order to move on. You can manipulate different objects like chains, punch-boxes, laser platforms and so on. You need to complete the level as fast as you can in order to get the high-score. There will be some bonuses that give you additional score points. Try to get all 3 stars for each level! Good luck!",
+			"thumbnail": "https://public.playtomax.com/static/games/gemollection2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/gemollection2_1404219101.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/gemollection2_1404219104.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/gemollection2_1404219107.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"gemollection2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Gemollection 2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "32",
+			"name": "Red&Green",
+			"description": "You need to get both red and green cute monsters to the candy using your cannon and some physics.",
+			"thumbnail": "https://public.playtomax.com/static/games/red_green.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/red_green_1407159129.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/red_green_1407159152.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/red_green_1407159160.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"red_green\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Red&Green from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 17]
+		},
+		{
+			"id": "33",
+			"name": "Fluffy Rescue 2",
+			"description": "Level Pack for a Fluffy Rescue physics game where you should help fluffies to get into nests of the same color.",
+			"thumbnail": "https://public.playtomax.com/static/games/fluffy_rescue2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/fluffy_rescue2_1404218139.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/fluffy_rescue2_1404218142.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/fluffy_rescue2_1404218146.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"fluffy_rescue2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fluffy Rescue 2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "34",
+			"name": "The Biggest Christmas Tree",
+			"description": "Winter holidays are coming soon, bringing everyone a joyful mood! One should prepare for this holiday and grow 'The Biggest Christmas Tree'. This html5 game is all about Christmas tree with an easy and joyous gameplay. To get the fir-tree high, just tap on it to grow. Our Christmas Tree is divided into lots of layers, your mission is to tap on covering one and hit as precisely as possible without cutting the borders. Get more precise taps on covering, grow it up high into the air. The layers form the tree and you are to reach the highest altitude. We dare and can grow the highest tree!",
+			"thumbnail": "https://public.playtomax.com/static/games/newyeartree.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/newyeartree_1418838523.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/newyeartree_1418838884.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/newyeartree_1418838893.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"newyeartree\" data-width=\"640\" data-height=\"960\" data-mode=\"fullscreen\"><!-- The Biggest Christmas Tree from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [3]
+		},
+		{
+			"id": "35",
+			"name": "Flappy Nerd",
+			"description": "Flappy Nerd is a game with a nerd, fallen in love. It's inspired by famous Flappy Bird. Flap the nerd on the wings of love through the obstacles at a library and don't let him crush. Be accurate, get more points, fly for a new romantic rendez-vous!",
+			"thumbnail": "https://public.playtomax.com/static/games/flappy_nerd.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/flappy_nerd_1411132753.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/flappy_nerd_1411132766.jpg",
+			"screen_3": "",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"flappy_nerd\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Flappy Nerd from http://playtomax.com --></script>",
+			"orientation": "portrait",
+			"provider": "PlayToMax",
+			"categories": [3]
+		},
+		{
+			"id": "36",
+			"name": "Hunter Willie",
+			"description": "Hunter Willie is a shooter game with dauntless huntsman, crossing over the dark cave strictly to the Shining Exit. Your task is pretty straightforward, head Willie forward, collect the ammo and various artefacts, save his life. Shoot the dangerous predators, bats and other monsters! Try your luck!",
+			"thumbnail": "https://public.playtomax.com/static/games/hunterwillie.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/hunterwillie_1404215963.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/hunterwillie_1404215967.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/hunterwillie_1404215971.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"hunterwillie\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Hunter Willie from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [17]
+		},
+		{
+			"id": "37",
+			"name": "Ragdoll Spree 2",
+			"description": "Ragdoll 2 – play ragdoll shooter game online! Ragdoll 2 is a mobile game about ragdolls and balloons. You need to launch ragdolls from the cannon in order to collect as many balloons as you can. Ok, in fact, you need to collect ALL balloons on the level, and we believe you can do it! No one says it will be easy. But you need to try. Tap on the area of the screen to launch a ragdoll. Complete each level as fast as you can to get the highest score. And don’t forget to earn every achievement in the game! Good luck!",
+			"thumbnail": "https://public.playtomax.com/static/games/ragdoll2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/ragdoll2_1407164032.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/ragdoll2_1407164227.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/ragdoll2_1407164256.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"ragdoll2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Ragdoll Spree 2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 15, 17]
+		},
+		{
+			"id": "38",
+			"name": "Fluffy Rescue",
+			"description": "The fluffies have been kidnapped by an evil spider and you need to help them get back to their nests. Tap to cut web threads.",
+			"thumbnail": "https://public.playtomax.com/static/games/fluffy_rescue.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/fluffy_rescue_1404217817.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/fluffy_rescue_1404217822.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/fluffy_rescue_1404217825.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"fluffy_rescue\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Fluffy Rescue from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 14]
+		},
+		{
+			"id": "39",
+			"name": "Princess Kiss",
+			"description": "Are you good at kissing? Let’s check your kissing skills. Help the princess kiss the prince. But be careful, the king is watching after you!",
+			"thumbnail": "https://public.playtomax.com/static/games/princesskiss.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/princesskiss_1404216668.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/princesskiss_1404216673.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/princesskiss_1404216676.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"princesskiss\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Princess Kiss from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [7]
+		},
+		{
+			"id": "40",
+			"name": "Red&Green2",
+			"description": "You need to get both red and green cute monsters to the candy using your cannon and some physics.",
+			"thumbnail": "https://public.playtomax.com/static/games/red_green_2.jpg",
+			"screen_1": "https://public.playtomax.com/static/screens/red_green_2_1404218823.jpg",
+			"screen_2": "https://public.playtomax.com/static/screens/red_green_2_1404218827.jpg",
+			"screen_3": "https://public.playtomax.com/static/screens/red_green_2_1404218830.jpg",
+			"video": "",
+			"embed_code": "<script type=\"text/javascript\" src=\"http://playtomax.com/static/js/embed.js\" data-id=\"red_green_2\" data-width=\"960\" data-height=\"640\" data-mode=\"fullscreen\"><!-- Red&Green2 from http://playtomax.com --></script>",
+			"orientation": "landscape",
+			"provider": "PlayToMax",
+			"categories": [13, 17]
+		}
+	]
+}
