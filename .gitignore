@@ -1,2 +1,6 @@
+# IntelliJ
+*.iml
+.idea/
+
 # Others
 .DS_Store
